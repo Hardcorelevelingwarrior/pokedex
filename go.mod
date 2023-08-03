@@ -1,3 +1,3 @@
-module github.com/HCLW/pokedexcli
+module github.com/Hardcorelevelingwarrior/pokedex
 
 go 1.20
